@@ -7,10 +7,8 @@ Runs on Chrome and internet explorer.
 Runs on desktops and smartphones.
 
 Technologies:
-Html and css coding through editors: 
-visual studio code
-atom
-boostrap
+tools: Html and css
+Editors: visual studio code, atom, boostrap
 
 Install:
 #Mzamomtsha-Website 
