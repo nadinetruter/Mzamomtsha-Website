@@ -4,6 +4,7 @@ by implementing flexbox structure.
 
 Prerequisites:
 Runs on Chrome and internet explorer.
+Runs on desktops and smartphones.
 
 Technologies:
 Html and css coding through editors: 
@@ -39,10 +40,12 @@ Mzingisi Xezu
 Support:
 If you are having issues, please let us know.
 
-We have a mailing list located at: Website@google.com
+We have a mailing list located at: interncptwex100@capaciti.org.za
 
 License:
 The project is licensed under the MIT license. You can find more information in the LICENSE file.
 
 Acknowledgements:
+Our mentor (Keoikantse Botlholo)
+Our Tech Champions (Diego Mizero and David Robertson)
 
